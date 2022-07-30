@@ -57,7 +57,7 @@
             4. Send Message
         ===================================== */
     
-        $url = "https://api-sms.cloud.toast.com/sms/v2.3/appKeys/HkJhi9PvZV1Nq0mJ/sender/sms";
+        $url = "https://api-sms.cloud.toast.com/sms/v2.3/appKeys//sender/sms";
         $key = 'appKey=';
         $data = array(
             'body' => $msg,
